@@ -8,3 +8,6 @@
 ## Project 3 - Rotating Navigation
 <img width="1893" height="903" alt="image" src="https://github.com/user-attachments/assets/988bce17-1469-4468-8877-de43d6f4ebf3" />
 <img width="1887" height="900" alt="image" src="https://github.com/user-attachments/assets/6f7f3594-ca79-4d4d-b862-1c662c074738" />
+## Project 4 - Hidden Search Widget
+<img width="1916" height="248" alt="image" src="https://github.com/user-attachments/assets/b4f36203-0575-4f41-bf2b-4b804d81548b" />
+<img width="1919" height="244" alt="image" src="https://github.com/user-attachments/assets/29f917f2-0dfe-416c-bf0d-e5fbc019b8d6" />

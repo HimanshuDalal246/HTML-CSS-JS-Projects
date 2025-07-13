@@ -17,3 +17,8 @@
 ## Project 4 - Hidden Search Widget
 <img width="1916" height="248" alt="image" src="https://github.com/user-attachments/assets/b4f36203-0575-4f41-bf2b-4b804d81548b" />
 <img width="1919" height="244" alt="image" src="https://github.com/user-attachments/assets/29f917f2-0dfe-416c-bf0d-e5fbc019b8d6" />
+<hr>
+
+## Project 5 - Blurry Loading
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/122c5c06-9a61-4337-ac28-bc4aa673e3a8" />
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/0c2030b8-2b55-4da3-bb7f-f46c15773d26" />

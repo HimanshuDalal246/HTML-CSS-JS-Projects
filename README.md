@@ -22,3 +22,8 @@
 ## Project 5 - Blurry Loading
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/122c5c06-9a61-4337-ac28-bc4aa673e3a8" />
 <img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/0c2030b8-2b55-4da3-bb7f-f46c15773d26" />
+<hr>
+
+## Project 6 - Scroll Animation
+<img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/fdf4f63f-b2e6-40e0-b182-cbdc85db1d60" />
+<img width="1896" height="903" alt="image" src="https://github.com/user-attachments/assets/f9817394-d49f-4270-8fc7-98f80ee410e7" />

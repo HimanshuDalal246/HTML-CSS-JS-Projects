@@ -27,3 +27,8 @@
 ## Project 6 - Scroll Animation
 <img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/fdf4f63f-b2e6-40e0-b182-cbdc85db1d60" />
 <img width="1896" height="903" alt="image" src="https://github.com/user-attachments/assets/f9817394-d49f-4270-8fc7-98f80ee410e7" />
+<hr>
+
+## Project 7 - Split Landing Page
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/8637adbf-5de3-454c-a6aa-afb481acb472" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/bb254e71-d659-4543-a397-4d04df074fd4" />

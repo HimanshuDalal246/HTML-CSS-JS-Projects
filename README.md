@@ -32,3 +32,8 @@
 ## Project 7 - Split Landing Page
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/8637adbf-5de3-454c-a6aa-afb481acb472" />
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/bb254e71-d659-4543-a397-4d04df074fd4" />
+<hr>
+
+## Project 8 - Form Wave Animation
+<img width="770" height="653" alt="image" src="https://github.com/user-attachments/assets/e1f9b7fd-0d7e-4a57-b1e4-f4ad1d0fd040" />
+<img width="755" height="620" alt="image" src="https://github.com/user-attachments/assets/6127a4bd-9b2c-4f88-aadc-e5364e477cc8" />

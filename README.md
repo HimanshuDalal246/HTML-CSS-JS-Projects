@@ -41,3 +41,7 @@
 
 ## Project 9 - Sound Board
 <img width="1919" height="411" alt="image" src="https://github.com/user-attachments/assets/d259c987-b765-4d66-a40e-5f4c2fdb11d9" />
+<hr>
+
+## Project 10 - Dad Jokes
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/442b9600-0fe2-47d0-b3ba-85a3a4a58e96" />

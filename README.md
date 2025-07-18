@@ -35,5 +35,9 @@
 <hr>
 
 ## Project 8 - Form Wave Animation
-<img width="770" height="653" alt="image" src="https://github.com/user-attachments/assets/e1f9b7fd-0d7e-4a57-b1e4-f4ad1d0fd040" />
-<img width="755" height="620" alt="image" src="https://github.com/user-attachments/assets/6127a4bd-9b2c-4f88-aadc-e5364e477cc8" />
+<img width="1919" height="592" alt="image" src="https://github.com/user-attachments/assets/974f17ae-4405-4225-8ee2-c2c9de039d80" />
+<img width="1919" height="587" alt="image" src="https://github.com/user-attachments/assets/c8a636d2-6047-4ee4-8dab-b9564b7e7c08" />
+<hr>
+
+## Project 9 - Sound Board
+<img width="1919" height="411" alt="image" src="https://github.com/user-attachments/assets/d259c987-b765-4d66-a40e-5f4c2fdb11d9" />

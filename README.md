@@ -45,3 +45,7 @@
 
 ## Project 10 - Dad Jokes
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/442b9600-0fe2-47d0-b3ba-85a3a4a58e96" />
+<hr>
+
+## Project 11 - Event Keycodes
+<img width="1919" height="315" alt="image" src="https://github.com/user-attachments/assets/e0cef1ac-8047-4fa7-a6ce-9f23b2226384" />

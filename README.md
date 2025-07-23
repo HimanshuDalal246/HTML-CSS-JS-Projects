@@ -49,3 +49,7 @@
 
 ## Project 11 - Event Keycodes
 <img width="1919" height="315" alt="image" src="https://github.com/user-attachments/assets/e0cef1ac-8047-4fa7-a6ce-9f23b2226384" />
+<hr>
+
+## Project 12 - FAQ Accordion
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/183ce1b5-cba6-4fd6-9ca1-2711eff22459" />
